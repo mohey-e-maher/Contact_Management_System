@@ -2,7 +2,7 @@
 
 A comprehensive Contact Management System built in F# to efficiently manage a list of contacts. This project showcases functional programming techniques and provides a modern Windows Forms UI for easy interaction.
 
-![Contact Management System GUI](media/GUI.png)
+![Contact Management System GUI](Media/GUI.png)
 
 ---
 
